@@ -3,6 +3,7 @@
 Cooked gameplay mod for Retro Rewind - Video Store Simulator that adds the
 missing fee for tapes returned without rewinding.
 
+[Nexus Mods](https://www.nexusmods.com/retrorewindvideostoresimulator/mods/283) |
 [Releases](https://github.com/fenomelini/unrewound-tape-fee/releases) |
 [Source](https://github.com/fenomelini/unrewound-tape-fee) |
 [Issues](https://github.com/fenomelini/unrewound-tape-fee/issues)
