@@ -7,6 +7,22 @@ missing fee for tapes returned without rewinding.
 [Source](https://github.com/fenomelini/unrewound-tape-fee) |
 [Issues](https://github.com/fenomelini/unrewound-tape-fee/issues)
 
+## Important: Employee Fee Policy
+
+**Do not install this mod alongside `zzzzzzzz_EmployeeFeePolicy_P.pak`.** Both
+mods replace `BTTask_Checkout-Fees`, so load order would silently discard part
+of one mod.
+
+Employee Fee Policy users must install only:
+
+```text
+zzzzzzzz_UnrewoundTapeFee_EmployeeFeePolicy_P.pak
+```
+
+That merged variant already incorporates the complete Employee Fee Policy
+`1.0.0` behavior plus all Unrewound Tape Fee features. Remove the original
+Employee Fee Policy PAK before installing it.
+
 ## Behavior
 
 - Registers one vanilla `Fees.Rewind` entry when the drop-box scanner finds an
