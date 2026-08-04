@@ -1,0 +1,7 @@
+/dist/
+/analysis/mod/
+/analysis/validation/
+__pycache__/
+*.py[cod]
+bin/
+obj/
